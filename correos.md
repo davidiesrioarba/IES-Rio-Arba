@@ -56,7 +56,7 @@
 |JEFES DE DEPARTAMENTO 17-18|jefesdepartamento17-18@iesrioarba.es|
 
 |Equipos docentes|Correo|
-|:---------------|:-------|
+|:-------------------|:-------|
 |UIEE|uiee@iesrioarba.es|
 |1º A|profesores1a@iesrioarba.es|
 |1º B|profesores1b@iesrioarba.es|
@@ -96,7 +96,7 @@
 |Secretaría IES Río Arba|secretaria@iesrioarba.es|
 
 |Tutores y Coordinación de tutores|Correo|
-|:--------|:-------|
+|:-------------------------------------|:-------|
 |TUTORES RÍO ARBA|tutores@iesrioarba.es|
 |1º BACHILLERATO|tutores1bachillerato@iesrioarba.es|
 |2º BACHILLERATO|tutores2bachillerato@iesrioarba.es|
@@ -104,3 +104,11 @@
 |2º DE ESO|tutores2eso@iesrioarba.es|
 |3º ESO|tutores3eso@iesrioarba.es|
 |4º ESO|tutores4eso@iesrioarba.es|
+
+|Otros grupos|Correo|
+|:--------------|:-------|
+|CLUB LECTURA|clublectura@iesrioarba.es|
+|Curso TIC|cursotic@iesrioarba.es|
+|Leer juntos|leerjuntos@iesrioarba.es|
+|PEÑA|pena@iesrioarba.es|
+|Proyecto de Formación en Centros|pfc@iesrioarba.es|
