@@ -1,9 +1,12 @@
 <!-- TITLE: Correos -->
 <!-- SUBTITLE: A quick summary of Correos -->
 
-table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after { 
-    content: " \25B4\25BE" 
-}
+<table class="sortable">
+<tr><th>Number (spelled)</th><th>Person</th></tr>
+<tr><td sorttable_customkey="2">two</td><td>Jan</td></tr>
+<tr><td sorttable_customkey="3">three</td><td>Bruce</td></tr>
+<tr><td sorttable_customkey="1">one</td><td>Steve</td></tr>
+</table>
 
 
 |Grupo Escolar|Correo|
