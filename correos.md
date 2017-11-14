@@ -57,4 +57,41 @@
 
 |Equipos docentes|Correo|
 |:---------------|:-------|
+|UIEE|uiee@iesrioarba.es|
+|1º A|profesores1a@iesrioarba.es|
+|1º B|profesores1b@iesrioarba.es|
+|1º C|profesores1c@iesrioarba.es|
+|1º D|profesores1d@iesrioarba.es|
+|1º E|profesores1e@iesrioarba.es|
+|1FPBA|profesores1fpba@iesrioarba.es|
+|1FPBI|profesores1fpbi@iesrioarba.es|
+|1CFGM INF|profesores1inf@iesrioarba.es|
+|1º INF|profesores1informatica@iesrioarba.es|
+|1º PAI|profesores1pai@iesrioarba.es|
+|2º A|profesores2a@iesrioarba.es|
+|2º B|profesores2b@iesrioarba.es|
+|2º C|profesores2c@iesrioarba.es|
+|2º D|profesores2d@iesrioarba.es|
+|2º FPB AGROPECUARIA|profesores2fpbagropecuaria@iesrioarba.es|
+|2º FPB INFORMÁTICA|profesores2fpbinf@iesrioarba.es|
+|2º INFORMÁTICA|profesores2informatica@iesrioarba.es|
+|2º PMAR|profesores2pmar@iesrioarba.es|
+|3º A|profesores3a@iesrioarba.es|
+|3 B|profesores3b@iesrioarba.es|
+|3º C|profesores3c@iesrioarba.es|
+|3º PMAR|profesores3pmar@iesrioarba.es|
+|4º A|profesores4a@iesrioarba.es|
+|4º B|profesores4b@iesrioarba.es|
+|4º C|profesores4c@iesrioarba.es|
+|5º A|profesores5a@iesrioarba.es|
+|5º B|profesores5b@iesrioarba.es|
+|6º A|profesores6a@iesrioarba.es|
+|6º B|profesores6b@iesrioarba.es|
+|Profesores Ayudantes|profesoresayudantes@iesrioarba.es|
+|Profesores Ciclo Informática|profesoresciclo@iesrioarba.es|
+|Profesores Guardia Recreo|profesoresguardiarecreo@iesrioarba.es|
+|Profesores UIEE|profesoresuiee@iesrioarba.es|
+|Ramón y Cajal|proyectoryc@iesrioarba.es|
+|Quiniela|quiniela@iesrioarba.es|
+|Secretaría IES Río Arba|secretaria@iesrioarba.es|
 
