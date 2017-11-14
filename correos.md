@@ -1,13 +1,8 @@
 <!-- TITLE: Correos -->
 <!-- SUBTITLE: A quick summary of Correos -->
 
+<script src="sorttable.js"></script>
 <table class="sortable">
-<tr><th>Number (spelled)</th><th>Person</th></tr>
-<tr><td sorttable_customkey="2">two</td><td>Jan</td></tr>
-<tr><td sorttable_customkey="3">three</td><td>Bruce</td></tr>
-<tr><td sorttable_customkey="1">one</td><td>Steve</td></tr>
-</table>
-
 
 |Grupo Escolar|Correo|
 |:---------------|:-------|
