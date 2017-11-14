@@ -1,7 +1,7 @@
 <!-- TITLE: Correos -->
 <!-- SUBTITLE: A quick summary of Correos -->
 <html>
-<script src="sorttable.js"></script>
+<script src="sortable.js"></script>
 <table class="sortable">
 <thead>
   <tr><th>Person</th><th>Monthly pay</th></tr>
