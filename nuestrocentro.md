@@ -1,4 +1,7 @@
 <!-- TITLE: Nuestrocentro -->
 <!-- SUBTITLE: A quick summary of Nuestrocentro -->
 
-# Header
+# **[Localización y contacto](/localizacionycontacto)**
+# **[Oferta formativa](/ofertaformativa)**
+# **[Instalaciones](/instalaciones)**
+# **[Video promocional](/videopromocional)**
