@@ -30,12 +30,12 @@
 |BIOLOGIA Y GEOLOGÍA 5ºA| biogeo5a@iesrioarba.es|
 
 |Claustro|Correo|
-|:---------------|:-------|
+|:---------|:-------|
 |Profesores 17-18|claustroprofesores@iesrioarba.es|
 |Consejo escolar|consejoescolar@iesrioarba.es
 
 |Departamentos didáctico|Correo|
-|:---------------|:-------|
+|:---------------------------|:-------|
 |BIOLOGÍA Y GEOLOGÍA|departamentobiogeo@iesrioarba.es|
 |ECONOMÍA|departamentoeconomia@iesrioarba.es|
 |EDUCACIÓN FÍSICA|departamentoedfisica@iesrioarba.es|
@@ -55,5 +55,6 @@
 |TECNOLOGÍA|departamentotecnologia@iesrioarba.es|
 |JEFES DE DEPARTAMENTO 17-18|jefesdepartamento17-18@iesrioarba.es|
 
-
+|Equipos docentes|Correo|
+|:---------------|:-------|
 
