@@ -6,4 +6,5 @@
 # **[Nuestro centro](/nuestrocentro)**
 # **[Secretaría](/secretaria)**
 # **[AMPA](/ampa)**
+# **[Programas y proyectos](/programasyproyectos)**
 # **[Blogs](/blogs)**
