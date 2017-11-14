@@ -17,6 +17,6 @@
 # **[Matemáticas](/matematicas)**
 # **[Música](/musica)**
 # **[Orientación](/orientacion)**
-# **[Plástica y visual](/plasticay visual)**
+# **[Plástica y visual](/plasticayvisual)**
 # **[Religión](/religion)**
 # **[Tecnología](/tecnologia)**
