@@ -1,6 +1,6 @@
 <!-- TITLE: Correos -->
 <!-- SUBTITLE: A quick summary of Correos -->
-<html>
+
 <table class="sortable">
 <thead>
   <tr><th>Person</th><th>Monthly pay</th></tr>
@@ -15,7 +15,7 @@
   <tr><td>TOTAL</td><td>£45,000</td></tr>
 </tfoot>
 </table>
-</html>
+
 
 |Grupo Escolar|Correo|
 |:---------------|:-------|
