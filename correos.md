@@ -100,7 +100,7 @@
 |TUTORES RÍO ARBA|tutores@iesrioarba.es|
 |1º BACHILLERATO|tutores1bachillerato@iesrioarba.es|
 |2º BACHILLERATO|tutores2bachillerato@iesrioarba.es|
-|1º De ESO|tutores1eso@iesrioarba.es|
+|1º DE ESO|tutores1eso@iesrioarba.es|
 |2º DE ESO|tutores2eso@iesrioarba.es|
 |3º ESO|tutores3eso@iesrioarba.es|
 |4º ESO|tutores4eso@iesrioarba.es|
