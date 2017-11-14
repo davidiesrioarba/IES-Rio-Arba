@@ -95,3 +95,14 @@
 |Quiniela|quiniela@iesrioarba.es|
 |Secretaría IES Río Arba|secretaria@iesrioarba.es|
 
+|Tutores|Correo|
+|:--------|:-------|
+|TUTORES RÍO ARBA|tutores@iesrioarba.es|
+|Coordinación de tutores|Correo|
+|:--------|:-------|
+|1º BACHILLERATO|tutores1bachillerato@iesrioarba.es|
+|DE 1º ESO|tutores1eso@iesrioarba.es|
+|2º BACHILLERATO|tutores2bachillerato@iesrioarba.es|
+|2º DE ESO|tutores2eso@iesrioarba.es|
+|3º ESO|tutores3eso@iesrioarba.es|
+|4º ESO|tutores4eso@iesrioarba.es|
