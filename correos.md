@@ -29,7 +29,7 @@
 |PAI| alumnospai@iesrioarba.es|
 |BIOLOGIA Y GEOLOGÍA 5ºA| biogeo5a@iesrioarba.es|
 
-|Grupo Escolar|Correo|
+|Claustro|Correo|
 |:---------------|:-------|
 |Profesores 17-18|claustroprofesores@iesrioarba.es|
 
