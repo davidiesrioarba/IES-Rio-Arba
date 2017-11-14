@@ -1,4 +1,6 @@
 <!-- TITLE: Blogs -->
 <!-- SUBTITLE: A quick summary of Blogs -->
 
-# Header
+# **[Blogs de aula (1 ESO)](/blogsdeaula1eso)**
+# **[Blogs UIEE](/blogsuiee)**
+# **[Blogs 1º SMR](/blogs1smr)**
