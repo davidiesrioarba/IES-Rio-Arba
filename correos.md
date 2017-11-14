@@ -1,5 +1,6 @@
 <!-- TITLE: Correos -->
 <!-- SUBTITLE: A quick summary of Correos -->
+<html><h1>hola</h1></html>
 |Grupo Escolar|Correo|
 |:---------------|:-------|
 |LITUNIV | lituniv@iesrioarba.es|
