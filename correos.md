@@ -33,3 +33,7 @@
 |:---------------|:-------|
 |Profesores 17-18|claustroprofesores@iesrioarba.es|
 
+|Consejo escolar|Correo|
+|:---------------|:-------|
+|Consejo escolar|consejoescolar@iesrioarba.es
+
