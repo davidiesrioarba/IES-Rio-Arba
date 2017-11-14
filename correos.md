@@ -1,6 +1,6 @@
 <!-- TITLE: Correos -->
 <!-- SUBTITLE: A quick summary of Correos -->
-
+<html>
 <script src="sorttable.js"></script>
 <table class="sortable">
 <thead>
@@ -16,6 +16,7 @@
   <tr><td>TOTAL</td><td>£45,000</td></tr>
 </tfoot>
 </table>
+</html>
 
 |Grupo Escolar|Correo|
 |:---------------|:-------|
