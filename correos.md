@@ -37,7 +37,7 @@
 |:---------------|:-------|
 |Consejo escolar|consejoescolar@iesrioarba.es
 
-|Departamentos directiva|Correo|
+|Departamentos didáctico|Correo|
 |:---------------|:-------|
 
 
